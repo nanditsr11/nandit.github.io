@@ -71,7 +71,7 @@
 
     <div class="section">
         <h2>Professional Experience</h2>
-        <h3>Adobe., Bangalore (January 2024 to Present)</h3>
+        <h3>Adobe, Bangalore (January 2024 to Present)</h3>
         <p><strong>Software Engineer - Python</strong></p>
         <p><em>Employer – Prismagic Solutions LLP</em></p>
         <ul>
