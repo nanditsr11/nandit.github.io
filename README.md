@@ -36,7 +36,7 @@
     <h1>Nandit Srivastava</h1>
     <div class="contact">
         <p>
-            <a href="https://www.linkedin.com/in/nandit-srivastava-842433187/">LinkedIn</a> |
+            <a href="https://www.linkedin.com/in/nandit-srivastava-782597335/">LinkedIn</a> |
             831-810-6302 |
             <a href="mailto:nandit.aws11@gmail.com">nandit.aws11@gmail.com</a> |
             <a href="https://github.com/">GitHub</a>
@@ -91,12 +91,12 @@
         <ul>
             <li>
                 <strong>Movie Recommendation Model</strong>
-                <br><a href="https://github.com/">GitHub: Movie Recommendation Model</a>
+                <br><a href="https://github.com/nanditsr11/MovieRecommendationModel">GitHub: Movie Recommendation Model</a>
                 <p>Developed a personalized movie recommendation system utilizing collaborative filtering and the Ashton Markov approach to predict user preferences based on ratings and viewing patterns.</p>
             </li>
             <li>
                 <strong>Harry Potter Cloak</strong>
-                <br><a href="https://github.com/">GitHub: Cloak</a>
+                <br><a href="https://github.com/nanditsr11/Harry-Potter-cloak">GitHub: Cloak</a>
                 <p>Created an interactive project using OpenCV and NumPy to simulate the magical cloak from the Harry Potter series, demonstrating skills in computer vision and image processing.</p>
             </li>
         </ul>
