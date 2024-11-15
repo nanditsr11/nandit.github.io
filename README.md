@@ -63,7 +63,7 @@
         <ul>
             <li><strong>Languages & Frameworks:</strong> Python, Django, Django REST Framework, SQL, HTML, CSS, Bootstrap</li>
             <li><strong>AI & ML Libraries:</strong> NumPy, Pandas, Matplotlib, SciPy, Seaborn</li>
-            <li><strong>Cloud & DevOps:</strong> AWS (S3, Lambda, RDS, CloudWatch), Docker, Kubernetes (if applicable), CI/CD</li>
+            <li><strong>Cloud & DevOps:</strong> AWS (S3, Lambda, RDS, CloudWatch), Docker, CI/CD</li>
             <li><strong>Tools:</strong> PyCharm, Visual Studio Code, Git, MySQL</li>
             <li><strong>Other Skills:</strong> Computer Vision, Machine Learning, Data Analysis, API Development</li>
         </ul>
