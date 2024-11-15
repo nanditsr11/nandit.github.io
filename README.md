@@ -26,13 +26,21 @@ Software Engineer - Python
 Employer – Prismagic Solutions LLP
 
 	Developed and optimized integration scripts within the Adobe AEM environment, leveraging Python for automation and data processing, resulting in a 20% reduction in workflow processing time.
+
 	Engineered machine learning-based personalized content recommendations, achieving a 30% improvement in user engagement.
+
 	Designed secure, RESTful APIs using Django REST Framework, enabling efficient and secure data exchanges between AEM and external services.
+
 	Worked closely with DevOps teams to deploy AEM applications on AWS, utilizing Amazon S3 for asset storage, AWS Lambda for serverless solutions, and Amazon RDS for data management, enhancing reliability.
+
 	Used NumPy and Pandas for analyzing customer preferences and visualizing data, providing insights that informed model training and enhanced product offerings.
+
 	Monitored application performance on AWS using CloudWatch, maintaining high availability through proactive issue resolution.
+
 	Developed webhooks for real-time synchronization and notifications, enhancing system responsiveness and user engagement.
+
 	Developing efficient queries to retrieve and manipulate data in MySQL, ensuring performance and scalability. 
+
 
 Personal Projects:
 
