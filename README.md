@@ -106,7 +106,7 @@
     <div class="section">
         <h2>Education</h2>
         <ul>
-            <li>Associate degree - Minor in AI & ML (pursuing – 2025, online), Indian Institute of Technology (IIT), Ropar, Punjab, India</li>
+            <li>Minor in AI & ML (pursuing – 2025, online), Indian Institute of Technology (IIT), Ropar, Punjab, India</li>
             <li>Master of Science (MSc) in Business Analytics and Artificial Intelligence (Partially Completed), University of Northampton, Northamptonshire, United Kingdom, 2023</li>
             <li>Bachelor of Technology (B. Tech) in Computer Science Engineering, B.N. College of Engineering and Technology – GBTU, 2015</li>
         </ul>
