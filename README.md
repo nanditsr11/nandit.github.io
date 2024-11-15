@@ -1,14 +1,5 @@
-Nandit Srivastava
-
-https://www.linkedin.com/in/nandit-srivastava-782597335/ 
-
-831-810-6302 
-
-nandit.aws11@gmail.com 
-
-https://github.com/nanditsr11 
-
-
+Nandit Srivastava 
+LinkedIn  |   831-810-6302 |  nandit.aws11@gmail.com |   GitHub 
 Professional Summary 
 (Kindly email if I miss your call) 
 ▪ Dynamic and results-driven Software Engineer specializing in AI/ML integration and cloud solutions.  
