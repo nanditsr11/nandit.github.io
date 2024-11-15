@@ -1,8 +1,13 @@
 Nandit Srivastava
+
 https://www.linkedin.com/in/nandit-srivastava-782597335/ 
+
 831-810-6302 
+
 nandit.aws11@gmail.com 
-https://github.com/nanditsr11  
+
+https://github.com/nanditsr11 
+
 
 Professional Summary 
 (Kindly email if I miss your call) 
