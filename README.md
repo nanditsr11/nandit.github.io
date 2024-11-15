@@ -33,7 +33,7 @@
     </style>
 </head>
 <body>
-    <h1>Nandit Srivastava</h1>
+    <center><h1>Nandit Srivastava</h1>
     <div class="contact">
         <p>
             <a href="https://www.linkedin.com/in/nandit-srivastava-782597335/">LinkedIn</a> |
@@ -42,7 +42,7 @@
             <a href="https://github.com/">GitHub</a>
         </p>
         <p><em>(Kindly email if I miss your call)</em></p>
-    </div>
+    </div></center>
 
     <div class="section">
         <h2>Professional Summary</h2>
