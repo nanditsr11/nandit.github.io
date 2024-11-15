@@ -1,16 +1,16 @@
-Nandit Srivastava
+                                                                 Nandit Srivastava
 
  	https://www.linkedin.com/in/nandit-srivastava-782597335/  |    831-810-6302 |   nandit.aws11@gmail.com  |    https://github.com/nanditsr11
 (Kindly email if I miss your call)
 
-Professional Summary
+## Professional Summary
 
 	Dynamic and results-driven Software Engineer specializing in AI/ML integration and cloud solutions. 
 	Skilled in developing scalable applications using Python and Django, with a focus on performance optimization, data-driven insights, and AI-based personalization. 
 	Proven track record in leveraging AWS for robust and efficient deployments, with expertise in creating RESTful APIs and implementing machine learning solutions to drive user engagement and operational success. 
 	Recognized for clear technical communication and strong collaborative abilities in cross-functional environments.
 
-Technical Summary
+## Technical Summary
 
 Languages & Frameworks: Python, Django, Django REST Framework, SQL, HTML, CSS, Bootstrap
 AI & ML Libraries: NumPy, Pandas, Matplotlib, SciPy, Seaborn
@@ -18,7 +18,7 @@ Cloud & DevOps: AWS (S3, Lambda, RDS, CloudWatch), Docker, Kubernetes (if applic
 Tools: PyCharm, Visual Studio Code, Git, MySQL
 Other Skills: Computer Vision, Machine Learning, Data Analysis, API Development
 
-Professional Experience
+## Professional Experience
 
 Adobe., Bangalore (January 2024 to Present)
 Software Engineer - Python
@@ -42,7 +42,7 @@ Employer – Prismagic Solutions LLP
 	Developing efficient queries to retrieve and manipulate data in MySQL, ensuring performance and scalability. 
 
 
-Personal Projects:
+## Personal Projects:
 
 Movie Recommendation Model
 GitHub: Movie Recommendation Model
@@ -57,7 +57,7 @@ Created an interactive project using OpenCV and NumPy to simulate the magical cl
 
 More projects: GitHub 
 
-Education
+## Education
 
 Associate degree - Minor in AI & ML (pursuing – 2025, online) 
 Indian Institute of Technology (IIT), Ropar, Punjab, India
