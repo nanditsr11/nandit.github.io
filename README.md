@@ -48,7 +48,7 @@
                 <a href="mailto:nandit.aws11@gmail.com">nandit.aws11@gmail.com</a> |
                 <a href="https://github.com/">GitHub</a>
             </p>
-            <p><em>(Kindly email if I miss your call)</em></p>
+            <p><em>(Kindly email if I miss your call - thank you !!!)</em></p>
         </div>
     </center>
    
