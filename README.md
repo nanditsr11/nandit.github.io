@@ -34,7 +34,7 @@
 </head>
 <body>
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-        <h1 style="margin: 20;">Nandit Srivastava</h1>
+        <h1 style="margin: 0;">Nandit Srivastava</h1>
         <a href="Nandit.pdf" download>
             <button style="padding: 10px 20px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">
                 Download Resume
