@@ -111,7 +111,7 @@
             <li>Bachelor of Technology (B. Tech) in Computer Science Engineering, B.N. College of Engineering and Technology – GBTU, 2015</li>
         </ul>
         <center>
-            <a href="Nandit_Srivastava.pdf" download>
+            <a href="Nandit.pdf" download>
                 <button style="padding: 10px 20px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">
                     Download Resume
                 </button>
