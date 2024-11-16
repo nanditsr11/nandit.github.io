@@ -118,13 +118,14 @@
             <li>Master of Science (MSc) in Business Analytics and Artificial Intelligence (Partially Completed), University of Northampton, Northamptonshire, United Kingdom, 2023</li>
             <li>Bachelor of Technology (B. Tech) in Computer Science Engineering, B.N. College of Engineering and Technology – GBTU, 2015</li>
         </ul>
-        <center>
+        <!-- <center>
             <a href="Nandit.pdf" download>
                 <button style="padding: 10px 20px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">
                     Download Resume
                 </button>
             </a>
-        </center>
+        </center> 
+        -->
     </div>
 </body>
 </html>
