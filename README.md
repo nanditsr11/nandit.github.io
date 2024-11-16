@@ -42,15 +42,16 @@
             <a href="https://github.com/">GitHub</a>
         </p>
         <p><em>(Kindly email if I miss your call)</em></p>
-    </div></center>
-    <div style="text-align: right; margin-top: 20px;">
-        <a href="Nandit_Srivastava.pdf" download>
-            <button style="padding: 10px 20px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">
-                Download Resume
-            </button>
-        </a>
     </div>
-
+         <div style="text-align: right; margin-top: 20px;">
+            <a href="Nandit.pdf" download>
+                    <button style="padding: 10px 20px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">
+                        Download Resume
+                    </button>
+            </a>
+         </div>
+    </center>
+   
     <div class="section">
         <h2>Professional Summary</h2>
         <p>
