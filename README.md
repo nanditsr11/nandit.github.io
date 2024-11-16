@@ -33,7 +33,14 @@
     </style>
 </head>
 <body>
-    <center><h1>Nandit Srivastava</h1>
+    <center><h1>Nandit Srivastava
+        <div style="text-align: right; margin-top: 20px;">
+            <a href="Nandit.pdf" download>
+                    <button style="padding: 10px 20px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">
+                        Download Resume
+                    </button>
+            </a>
+        </div></h1>
     <div class="contact">
         <p>
             <a href="https://www.linkedin.com/in/nandit-srivastava-782597335/">LinkedIn</a> |
@@ -43,13 +50,6 @@
         </p>
         <p><em>(Kindly email if I miss your call)</em></p>
     </div>
-         <div style="text-align: right; margin-top: 20px;">
-            <a href="Nandit.pdf" download>
-                    <button style="padding: 10px 20px; background-color: #3498db; color: white; border: none; border-radius: 5px; cursor: pointer;">
-                        Download Resume
-                    </button>
-            </a>
-         </div>
     </center>
    
     <div class="section">
